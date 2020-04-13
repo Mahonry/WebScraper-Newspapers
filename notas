@@ -1,0 +1,21 @@
+-Tipos de datos
+    -Primitivos: int, str, float, hec, oct, datatime, objectos especiales
+
+    -Estructurados: mas faciles de acceder a su informacion
+
+        -Bases de datos
+        -Data warehouses
+    
+    -Semi Estructurados
+
+        -Json APIs
+        -Datos tabulares (csv, excel)
+
+    -No Estructurados
+
+        -HTML
+        -Texto Libre
+        -Imagenes audios,social media 
+
+
+

@@ -1,0 +1,19 @@
+news_sites:
+  eluniversal:
+      url: https://www.eluniversal.com.mx/
+      queries:
+        homepage_article_links: '.field-content a'
+        article_body: '.field-name-body'
+        article_title: '.pane-content h1'
+  elpais:
+      url: https://elpais.com
+      queries:
+        homepage_article_links: '.headline a'
+        article_body: '.article_body p'
+        articule_title: '.article-header h1'
+  huatusco:
+      url: http://huatusconoticias.com/portal/
+      queries:
+        homepage_article_links: '.article-title a'
+        article_body: '.article-content'
+        article_title: '.article-header h1'
